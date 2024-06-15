@@ -25,7 +25,7 @@ Open the `index.html` file in your preferred web browser to start playing.
 ## Code Structure
 - **HTML**: The structure of the game is defined in `index.html`.
 - **CSS**: The styles for the game are contained in `style.css`.
-- **JavaScript**: The game logic is implemented in `script.js`.
+- **JavaScript**: The game logic is implemented in `index.js`.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out at [mihirsahu36@gmail.com](mailto:mihirsahu36@gmail.com).
