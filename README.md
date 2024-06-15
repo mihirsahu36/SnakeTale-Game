@@ -1,6 +1,6 @@
 # SnakeTale-Game
 
-![SnakeTale](./snake.png)
+![SnakeTale](./Snake.png)
 
 ## Overview
 SnakeTale is a classic snake game developed using HTML, CSS, and JavaScript. In this game, players control a snake to eat food, which makes the snake grow longer. The objective is to score as many points as possible without running into the walls or the snake's own body. The game features two difficulty levels: Easy and Hard, and it keeps track of the player's current score as well as the highest score (Hi-Score).
